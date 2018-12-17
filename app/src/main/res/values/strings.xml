@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MessageSender</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="reply_recived">Reply Recived</string>
+    <string name="message_recived">Message Recived</string>
+</resources>
